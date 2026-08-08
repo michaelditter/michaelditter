@@ -10,10 +10,11 @@ The philosophy: **building > talking.** Every idea here ships as a working tool.
 
 - **[Sentinel Climate](https://sentinel-climate.vercel.app)** — climate-emergency decision support. Watches live public data feeds, scores county-level risk, drafts resource-allocation plans a human emergency manager reviews. Won the SCSP AI+ Expo hackathon, then hardened into a live, tested tool against real government APIs. ([repo](https://github.com/michaelditter/SentinelClimate))
 - **[THE UPLOAD](https://theupload.io)** — the living AI guide for working professionals. Role-organized playbooks (Marketing, Sales, Finance, Design, Manager), a ~3-hour narrated audio edition, a neutral tools directory, grounded Q&A.
-- **[You Cannot Eat Code](https://youcannoteat.codes)** — 250 years of proof that the future is physical, local, and human. A field guide for the age of AI, shipping summer 2026 — with working civic tools, all open source here:
+- **[You Cannot Eat Code](https://youcannoteat.codes)** — 250 years of proof that the future is physical, local, and human. A field guide for the age of AI, out now — with working civic tools, all open source here:
   [the-record](https://github.com/michaelditter/the-record) · [the-mesh](https://github.com/michaelditter/the-mesh) · [the-charter](https://github.com/michaelditter/the-charter) · [the-correspondence](https://github.com/michaelditter/the-correspondence) · [record-core](https://github.com/michaelditter/record-core) · [civic-record-protocol](https://github.com/michaelditter/civic-record-protocol)
 - **[The AI Edge Podcast](https://open.spotify.com/show/0hcQEsEZ89rwhVhk4VpTlj)** — also on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ai-edge-podcast/id1812993900) and [YouTube](https://www.youtube.com/playlist?list=PLwXW9E8esdgGmF0GmWb0Y5DcAtLtG9xEN)
 - **[PEBI.AI](https://pebi.ai)** — applied intelligence engineering; first spatial-video brand experience on Apple Vision Pro
+- **[Open Cockpit](https://michaelditter.github.io/open-cockpit/)** — turn a closet into a starship bridge. A flight-sim switch panel, a Raspberry Pi, and AI-generated voice lines make a living spaceship cockpit for kids: every switch talks back, drives real LEDs, and runs a full bridge display. ~$300, no gaming PC, works offline. ([repo](https://github.com/michaelditter/open-cockpit))
 - **[nimbus.baby](https://nimbus.baby)** — hands-free product prototyping; one-HTML-file experiments
 
 ## Elsewhere
