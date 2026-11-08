@@ -1,24 +1,17 @@
 # Michael Ditter
 
-**Head of AI Strategy & Emerging Technology. I build AI systems that drive P&L impact — then I teach organizations how to scale.**
+I build working AI systems and write about the judgment it takes to run them inside large organizations.
 
-100+ working AI prototypes. 375+ practitioners trained. 8-figure annual P&L impact. 1st place, SCSP AI+ Expo Hackathon 2025. ANA AI Council Chair. Cornell MBA.
+Forward Deployed Engineer at Alephic. Formerly Head of AI & Emerging Tech at Diageo. Co-Chair, ANA AI Council. Author of *You Cannot Eat Code* (2026). Cornell MBA.
 
-The philosophy: **building > talking.** Every idea here ships as a working tool.
+## Work, dated
 
-## Now
-
-- **[Sentinel Climate](https://sentinel-climate.vercel.app)** — climate-emergency decision support. Watches live public data feeds, scores county-level risk, drafts resource-allocation plans a human emergency manager reviews. Won the SCSP AI+ Expo hackathon, then hardened into a live, tested tool against real government APIs. ([repo](https://github.com/michaelditter/SentinelClimate))
-- **[THE UPLOAD](https://theupload.io)** — the living AI guide for working professionals. Role-organized playbooks (Marketing, Sales, Finance, Design, Manager), a ~3-hour narrated audio edition, a neutral tools directory, grounded Q&A.
-- **[You Cannot Eat Code](https://youcannoteat.codes)** — 250 years of proof that the future is physical, local, and human. A field guide for the age of AI, out now — with working civic tools, all open source here:
-  [the-record](https://github.com/michaelditter/the-record) · [the-mesh](https://github.com/michaelditter/the-mesh) · [the-charter](https://github.com/michaelditter/the-charter) · [the-correspondence](https://github.com/michaelditter/the-correspondence) · [record-core](https://github.com/michaelditter/record-core) · [civic-record-protocol](https://github.com/michaelditter/civic-record-protocol)
-- **[The AI Edge Podcast](https://open.spotify.com/show/0hcQEsEZ89rwhVhk4VpTlj)** — also on [Apple Podcasts](https://podcasts.apple.com/us/podcast/the-ai-edge-podcast/id1812993900) and [YouTube](https://www.youtube.com/playlist?list=PLwXW9E8esdgGmF0GmWb0Y5DcAtLtG9xEN)
-- **[PEBI.AI](https://pebi.ai)** — applied intelligence engineering; first spatial-video brand experience on Apple Vision Pro
-- **[Open Cockpit](https://michaelditter.github.io/open-cockpit/)** — turn a closet into a starship bridge. A flight-sim switch panel, a Raspberry Pi, and AI-generated voice lines make a living spaceship cockpit for kids: every switch talks back, drives real LEDs, and runs a full bridge display. ~$300, no gaming PC, works offline. ([repo](https://github.com/michaelditter/open-cockpit))
-- **[nimbus.baby](https://nimbus.baby)** — hands-free product prototyping; one-HTML-file experiments
+- **[Civic-record toolset](https://github.com/michaelditter/civic-record-protocol)** (2026): the six tools released with *You Cannot Eat Code*. The spec repo is the index; the others are [the-record](https://github.com/michaelditter/the-record), [the-mesh](https://github.com/michaelditter/the-mesh), [the-charter](https://github.com/michaelditter/the-charter), [the-correspondence](https://github.com/michaelditter/the-correspondence) and [record-core](https://github.com/michaelditter/record-core). Available as is.
+- **[Sentinel](https://github.com/michaelditter/SentinelClimate)** (2025): multi-agent decision support for climate emergencies. Won the SCSP AI+ Expo Hackathon, June 2025; hardened July 2026. No hosted demo; runs locally.
+- **[Open Cockpit](https://michaelditter.github.io/open-cockpit/)** (2026): a flight-sim switch panel, a Raspberry Pi and generated voice lines make a spaceship bridge for kids. Build guide and [code](https://github.com/michaelditter/open-cockpit).
+- **[Answer Engine Perception Audit](https://github.com/michaelditter/answer-engine-perception-audit)** (2026): four questions for finding out what ChatGPT, Gemini, Claude and Perplexity say about a brand, with a field guide.
+- **[THE UPLOAD](https://theupload.io)** (2026): a free AI guide for working professionals. Available as is.
 
 ## Elsewhere
 
-**[michaelditter.com](https://michaelditter.com)** — the document of record: [writing](https://michaelditter.com/blog) · [open-source index](https://michaelditter.com/code) · [talks](https://michaelditter.com/maze-runners)
-
-[LinkedIn](https://www.linkedin.com/in/michaeljditter/) is the fastest way to reach me — always open to conversations about frontier AI, applied intelligence at enterprise scale, or unusually ambitious builds.
+[michaelditter.com](https://michaelditter.com) (writing, talks, and an MCP server at [/connect](https://michaelditter.com/connect)) · [LinkedIn](https://www.linkedin.com/in/michaeljditter/) · [the book](https://youcannoteat.codes). Guest on U of Digital's *The AI Edge Podcast*, Ep 8, January 2026.
